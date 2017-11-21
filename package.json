@@ -1,0 +1,21 @@
+{
+  "name": "almarj-ly-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "color the darkness syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "almarj",
+    "almarj ly",
+    "almarj ly syntax",
+    "colorful",
+    "for dark",
+    "dark"
+  ],
+  "repository": "https://github.com/LionRoar/almarj-ly-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
